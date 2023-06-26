@@ -36,7 +36,7 @@
     "@rollup/plugin-commonjs": "^24.1.0",
     "@rollup/plugin-json": "^6.0.0",
     "@rollup/plugin-typescript": "^11.1.0",
-    "@solana/web3.js": "^1.75.0",
+    "@solana/web3.js": "^1.77.3",
     "@tsconfig/recommended": "^1.0.2",
     "@types/bn.js": "^5.1.1",
     "@types/bs58": "^4.0.1",
